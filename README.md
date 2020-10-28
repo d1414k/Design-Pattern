@@ -7,3 +7,4 @@ Solid Design Principles
         A class will have only one responsibility.
     2. OCP : Open closed principle : https://github.com/d1414k/Design-Pattern/blob/main/src.com.activemesa.solid.ocp.OCP.java.txt
         open for extention and closed for modification
+        
