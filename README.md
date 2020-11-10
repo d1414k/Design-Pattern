@@ -9,4 +9,11 @@ Solid Design Principles \
         open for extention and closed for modification. \
     3. LSP : Lisko substitution principle : \
         While inherting some class all functions will have to behave correctly. \
+        Ex: Rectangle , Square area calculation
+    4. ISP : Interface seggrigation principle \
+        Interface should conatains as min funtion as possible otherwise even though a class do no need some \
+        funtion but it need to implement it.
+    5. DIP : Dependency inversion principle \
+        High level module sould not depend on low level module
+        use abstraction
         
