@@ -16,7 +16,15 @@ Solid Design Principles \
     5. DIP : Dependency inversion principle https://github.com/d1414k/Design-Pattern/blob/main/src.com.activemesa.solid.dip.DIP.java.txt \
         A. High-level modules should not depend on low-level modules. \ 
         Both should depend on abstractions. \
-        
         B. Abstractions should not depend on details. \
         Details should depend on abstractions. \
         
+     
+     GAMMA Categorization of Design pattern
+     1. Creational pattern
+        Deal with creating objects
+     2. Structural pattern
+        Deals with code structure
+        API design
+     3. Behavioural pattern
+        No central theme
